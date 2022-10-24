@@ -4,10 +4,12 @@ TEAM WOEK MAKES THE DREAM WORK:
 The assignment was basically making a tiny little spinner that uses a pull stick to spin a little spinner.
 
 SPINNER:
+
 ![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-24%20154241.png)
 
 
 PROP:
+
 ![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-24%20154138.png)
 
 link
