@@ -12,6 +12,8 @@ PROP:
 
 ![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-24%20154138.png)
 
+The prop was pretty difficult for me it wasnt very easy as it had so many things that I had no idea about how to do. My partner helped quite a bit cause I got stuck on multiple parts of the assignment. Getting the right weight was also a pretty difficult thing. Also I ended up making every blade a different part and that would never get fixed.
+
 link
 https://cvilleschools.onshape.com/documents/64361c9e4b5aaa598eb0ff70/w/94b4b8a912e918b885ce7c8c/e/b36b24925068cd7289999d65
 
