@@ -13,6 +13,24 @@ https://cvilleschools.onshape.com/documents/64361c9e4b5aaa598eb0ff70/w/94b4b8a91
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Swing Arm
 
 This assignment was basically taking mesurments from an onshape assignment and createing the thing diemensioned in the documents and actually making it in onshape.
