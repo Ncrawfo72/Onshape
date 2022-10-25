@@ -27,6 +27,22 @@ https://cvilleschools.onshape.com/documents/64361c9e4b5aaa598eb0ff70/w/94b4b8a91
 
 
 
+BRANCHING AND MERGING
+
+make multiple branches and versions on an exisitng project to show you undertand how to make these said bracnhes and versions.
+
+![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-25%20145319.png)
+
+This assignment was pretty easy it was 
+
+
+
+
+
+
+
+
+
 
 
 SWING ARM:
