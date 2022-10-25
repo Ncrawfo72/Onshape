@@ -7,7 +7,7 @@ SPINNER:
 
 ![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-24%20154241.png)\
 
-The spinner part was actually kinda easy or I thought it was it was the easier part of the the 2 parts I made. This is probably because it was a pretty straight forward and had things I new how to do unlike the prop. I defenintley didnt need as much help as I need on the prop or on other assignments.
+The spinner part was actually kinda easy or I thought it was it was the easier part of the the 2 parts I made. This is probably because it was a pretty straight forward and had things I new how to do unlike the prop. I defenintley didnt need as much help as I need on the prop or on other assignments. The biggest like im so dumb monment is probably createing the wrong sized hole
 
 
 PROP:
