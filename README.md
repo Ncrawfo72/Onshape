@@ -39,3 +39,22 @@ This assignment was also pretty difficult I found hard to get the right measurme
 
 Link
 https://cvilleschools.onshape.com/documents/b3d463b0658a8d1c38a2cde7/w/eb1b57a8f96c9b00cce54220/e/17bc1edb090620e0b8b129fd
+
+
+
+
+
+
+
+
+
+MULTI PART STUDIO:
+
+This assignment was basically the same as the swing arm except taking measurments from paper and making them into parts that work with one another.
+
+This is the only one of these assignments that I actually enjoyed doing and actually enjoyned making it was pretty straight forward and I was able to understand it on my own without major help form piers. I struggled on making some of the parts not just one big part, but besides that I was able to really do pretty well on it. I did however do half the project with my plunger upsidedown and had to spend a day flipping it back over which I struggled heavily with.
+
+![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-20%20150929.png)
+
+Link
+https://cvilleschools.onshape.com/documents/edff1ff83ec215904f08ceb2/w/527d921d60d90a862eed4dea/e/8c74562eb55d7417bb31619f
