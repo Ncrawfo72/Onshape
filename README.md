@@ -1,5 +1,5 @@
 
-TEAM WOEK MAKES THE DREAM WORK:
+TEAMWORK MAKES THE DREAM WORK:
 
 The assignment was basically making a tiny little spinner that uses a pull stick to spin a little spinner.
 
@@ -33,7 +33,11 @@ make multiple branches and versions on an exisitng project to show you undertand
 
 ![name](https://github.com/Ncrawfo72/Onshape/blob/master/Media/Screenshot%202022-10-25%20145319.png)
 
-This assignment was pretty easy it was 
+This assignment was pretty easy as it was very very straight forward. It defenitley taught me how to make both branches and versions as before I did this I had no idea that this even existed. The information is kinda usefull, but I dont know if ill ever use it, but its still neat to knhow that this exists and can be used to actually really help your cading abailitys.
+
+link
+
+https://cvilleschools.onshape.com/documents/64361c9e4b5aaa598eb0ff70/w/94b4b8a912e918b885ce7c8c/e/b36b24925068cd7289999d65
 
 
 
