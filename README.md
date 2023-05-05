@@ -79,3 +79,16 @@ This is the only one of these assignments that I actually enjoyed doing and actu
 Link
 
 https://cvilleschools.onshape.com/documents/edff1ff83ec215904f08ceb2/w/527d921d60d90a862eed4dea/e/8c74562eb55d7417bb31619f
+
+
+
+
+
+
+
+
+---
+
+Onshape certification:
+
+Studying and practiceing for the onshape certificatation was very easy and I did very well on all the parts and things I had tp create. I also did fairly good on the multiple cvhoice questions which I had to do. However when it came to the the actual test I struggled. my first test went nuts and submitted itself failing me instantley. the seconded time I went to take it I tried my hardest, but ultimentaley wouldnt pass. This is  probably cause I got lost and confused on the last building onshape desgin things. I would say it also didnt help i the fact I knew I was going to fail or at least I thought I would. I would making the test not mandatory would be helpful.
